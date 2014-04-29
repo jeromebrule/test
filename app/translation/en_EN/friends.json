@@ -1,0 +1,11 @@
+{
+	'menu_accueil': 'Home',
+	'menu_about': 'About',
+	'menu_contact': 'Contact',
+	'GREETING': 'Ubisoft the test',
+	'NAME': 'Name',
+	'PRO': 'Profession',
+	'SEARCH': 'Search',
+	'BUTTON_LANG_FR': 'francais',
+	'BUTTON_LANG_EN': 'english'
+}
